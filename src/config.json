@@ -5,8 +5,8 @@
         "linux": {
           "x64": {
             "download": {
-              "url": "https://bintray.com/artifact/download/karalabe/ethereum/geth-1.4.12-stable-421df86-linux-amd64.tar.bz2",
-              "type": "tar"
+              "url": "https://github.com/ethereumproject/go-ethereum/releases/download/v3.0.1/geth-classic-linux-x64-65f1fbc.1.zip",
+              "type": "zip"
             },
             "bin": "geth",
             "commands": {
@@ -18,7 +18,7 @@
           },
           "ia32": {
             "download": {
-              "url": "https://bintray.com/artifact/download/karalabe/ethereum/geth-1.4.12-stable-421df86-linux-386.tar.bz2",
+              "url": "https://github.com/ethereumproject/go-ethereum/releases/download/v3.0.1/geth-classic-linux-x64-65f1fbc.1.zip",
               "type": "tar"
             },
             "bin": "geth",
@@ -33,7 +33,7 @@
         "mac": {
           "x64": {
             "download": {
-              "url": "https://bintray.com/artifact/download/karalabe/ethereum/geth-1.4.12-stable-421df86-darwin-10.6-amd64.tar.bz2",
+              "url": "https://github.com/ethereumproject/go-ethereum/releases/download/v3.0.1/geth-classic-darwin-65f1fbc.zip",
               "type": "tar"
             },
             "bin": "geth",
@@ -48,7 +48,7 @@
         "win": {
           "x64": {
             "download": {
-              "url": "https://github.com/ethereum/go-ethereum/releases/download/v1.4.11/Geth-Win64-20160818153642-1.4.11-fed692f.zip",
+              "url": "https://github.com/ethereumproject/go-ethereum/releases/download/v3.0.1/geth-classic-win64-65f1fbc.zip",
               "type": "zip"
             },
             "bin": "geth.exe",
@@ -61,7 +61,7 @@
           },
           "ia32": {
             "download": {
-              "url": "https://bintray.com/artifact/download/karalabe/ethereum/geth-1.4.12-stable-421df86-windows-4.0-386.exe.zip",
+              "url": "https://github.com/ethereumproject/go-ethereum/releases/download/v3.0.1/geth-classic-win64-65f1fbc.zip",
               "type": "zip"
             },
             "bin": "geth.exe",
