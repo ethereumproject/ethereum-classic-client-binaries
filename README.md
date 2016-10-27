@@ -22,7 +22,7 @@ Features:
 ## Installation
 
 ```shell
-npm install --save ethereum-client-binaries
+npm install --save ethereum-classic-client-binaries
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ npm install --save ethereum-client-binaries
 First a config object needs to be defined. This specifies the possible clients 
 and the platforms they support. 
 
-For example, a config object which specifies the [Geth client](https://github.com/ethereum/go-ethereum) for only 64-bit Linux platforms and the [Parity client](https://github.com/ethcore/parity) for only 32-bit Windows platforms might be:
+For example, a config object which specifies the [Geth client](https://github.com/ethereumproject/go-ethereum) for only 64-bit Linux platforms and the [Parity client](https://github.com/ethcore/parity) for only 32-bit Windows platforms might be:
 
 ```js
 const config = {
