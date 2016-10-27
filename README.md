@@ -1,10 +1,10 @@
-# ethereum-client-binaries
+# ethereum-classic-client-binaries
 
 [![Build Status](https://secure.travis-ci.org/hiddentao/ethereum-client-binaries.png?branch=master)](http://travis-ci.org/hiddentao/ethereum-client-binaries) [![NPM module](https://badge.fury.io/js/ethereum-client-binaries.png)](https://badge.fury.io/js/ethereum-client-binaries) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/hiddentao)
 
-Download Ethereum client binaries for your OS.
+Download Ethereum Classic client binaries for your OS.
 
-When you wish to run a local Ethereum client node it would be beneficial to first 
+When you wish to run a local Ethereum Classic client node it would be beneficial to first 
 scan for existing node client binaries on the machine and then download 
 appropriate client binaries if none found. **This package does both.**
 
