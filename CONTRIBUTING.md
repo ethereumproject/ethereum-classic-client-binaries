@@ -1,4 +1,4 @@
-# Contribute to ethereum-client-binaries
+# Contribute to ethereum-classic-client-binaries
 
 This guide guidelines for those wishing to contribute.
 
