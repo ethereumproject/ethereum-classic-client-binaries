@@ -1,7 +1,7 @@
 {
-  "name": "ethereum-client-binaries",
+  "name": "ethereum--classic-client-binaries",
   "version": "1.5.0",
-  "description": "Download Ethereum client binaries for your OS",
+  "description": "Download Ethereum Classic client binaries for your OS",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --timeout 180000 --ui exports --reporter spec test/*.test.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiddentao/ethereum-client-binaries.git"
+    "url": "git+https://github.com/ethereumproject/ethereum-classic-client-binaries.git"
   },
   "keywords": [
     "ethereum",
@@ -24,9 +24,9 @@
   "author": "Ramesh Nair <ram@hiddentao.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hiddentao/ethereum-client-binaries/issues"
+    "url": "https://github.com/ethereumproject/ethereum-client-binaries/issues"
   },
-  "homepage": "https://github.com/hiddentao/ethereum-client-binaries#readme",
+  "homepage": "https://github.com/ethereumproject/ethereum-client-binaries#readme",
   "dependencies": {
     "buffered-spawn": "^3.3.2",
     "got": "^6.5.0",
