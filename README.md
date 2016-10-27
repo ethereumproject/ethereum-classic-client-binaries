@@ -1,4 +1,4 @@
-# ethereum-classic-client-binaries
+# ethereum-classic-binaries
 
 [![Build Status](https://secure.travis-ci.org/hiddentao/ethereum-client-binaries.png?branch=master)](http://travis-ci.org/hiddentao/ethereum-client-binaries) [![NPM module](https://badge.fury.io/js/ethereum-client-binaries.png)](https://badge.fury.io/js/ethereum-client-binaries) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/hiddentao)
 
@@ -94,7 +94,7 @@ The `sanity` command is mandatory and is a way to check a found binary to ensure
 Now we can construct a `Manager` with this config:
 
 ```js
-const Manager = require('ethereum-client-binaries').Manager;
+const Manager = require('ethereum-classic-client-binaries').Manager;
 
 // construct
 const mgr =  new Manager(config);
